@@ -1,1 +1,1 @@
-**Basis** - If elements $v_1, \ldots, v_n$ of $V$ [[spanningSetDef|generate]]  $V$ and in addition are [[linearlyIndependentDef|linearly independent]], then $\{v_1, \ldots, v_n\}$ is called a *basis* of $V.$
+**Basis** - If elements \(v_1, \ldots, v_n\) of $V$ [[spanningSetDef|generate]]  $V$ and in addition are [[linearlyIndependentDef|linearly independent]], then $\{v_1, \ldots, v_n\}$ is called a *basis* of $V.$
