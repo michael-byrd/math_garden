@@ -2,4 +2,4 @@
 title: About these notes
 ---
 # About these Notes
-These are some fake notes. Feel free to poke around. You may spot an [[easter egg]]  or two! Also, I like [[linear_algebra/definitions/basisDef]].
+These are some fake notes. Feel free to poke around. You may spot an [[easter egg]]  or two! Also, I like [[basisDef]](linear_algebra/defintions).
